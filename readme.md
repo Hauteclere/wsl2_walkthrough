@@ -2,14 +2,14 @@
 
 Welcome!
 
-This document will guide you through the process of installing Windows Subsystem for Linux 2 for the CoderAcademy CCC course. This guide was put together using Microsoft's official instructions for installing WSL, with some added tweaks from yours truly to make it easier to follow.
+This document will guide you through the process of installing Windows Subsystem for Linux 2. This guide was put together using Microsoft's official instructions for installing WSL, with some added tweaks from yours truly to make it easier to follow.
 
 Some things to keep in mind before we begin:
 
 * You only need to follow these instructions if you're using a Windows laptop. Mac users are lucky because they already have access to the resources we'll be installing WSL for, and anyway, the W in WSL stands for WINDOWS - there is no MSL!
-* It's ok to just follow these instructions by rote, if you don't understand what you're doing. Some of the steps outlined below might make a lot more sense after a few weeks' worth of coursework, and that's fine. Just work through them for now and don't worry if you're feeling lost. All will be made clear. :) If you need help, reach out to the teaching team on Discord!
+* It's ok to just follow these instructions by rote, if you are using this as your first springboard into coding. Some of the steps outlined below might make a lot more sense after a few weeks' worth of experience, and that's fine. Just work through them for now and don't worry if you're feeling lost. All will be made clear. :) If you need help, reach out to the teaching team on Slack!
 
-Happy hacking, and see you in class!
+Happy hacking, and see you in the field!
 
 -- Oliver
 
@@ -22,10 +22,10 @@ First of all let's make sure you have everything you need to install WSL 2.
 1. ### You need to have an active internet connection.
     *These instructions require you to download files from the internet in order to upgrade your computer's functionality. You'll need to have uninterrupted access to an internet connection with decent bandwidth, that will let you download without running up enormous data charges.*
 1. ### You need to be running Windows 10 as your operating system.
-    *This one is non-negotiable I'm afraid, although for most people it won't be a problem. WSL is only supported in Windows 10, and there's really no good substitute. Trust me when I say that you want to be running Windows 10 anyway - accept no imitators. If you think you'll have trouble getting Windows 10 on your device, contact the teaching team on Discord for help.* :)
+    *This one is non-negotiable I'm afraid, although for most people it won't be a problem. WSL is only supported in Windows 10, and there's really no good substitute. Trust me when I say that you want to be running Windows 10 anyway - accept no imitators. If you think you'll have trouble getting Windows 10 on your device, contact the mentors on Slack for help.* :)
 1. ### You need to have your OS relatively up to date.
     **You'll need at least version 2004 in order to continue with this walkthrough.**
-    *I know it can be annoying to stay on top of Windows updates - sometimes you don't feel like restarting your PC, or you can't spare the bandwidth for downloading the update. But we are studying Cyber Security in this course, and I promise you: nothing compromises your security like an out-of-date OS. I recommend taking the time now to install however many updates you have waiting. It'll make staying up to date in the future easier, and it'll make your PC smile.*
+    *I know it can be annoying to stay on top of Windows updates - sometimes you don't feel like restarting your PC, or you can't spare the bandwidth for downloading the update. I recommend taking the time now to install however many updates you have waiting. It'll make staying up to date in the future easier, and it'll make your PC smile.*
     1. #### Checking what version of Windows 10 you have installed:
         To check your version and build number, press ```Windows Logo Key + R```, type ```winver```, and select ```OK```. A window should pop up with the version and license details of your OS. If it lists a version number lower than 2004, you'll definitely need to update before continuing.  
     1. #### Updating Windows If Necessary
@@ -124,4 +124,4 @@ https://www.microsoft.com/store/apps/9n6svws3rx71
 code .
 ```
 
-* There's no going back now - you're a hacker. Make sure you attend your classes at CoderAcademy so you can learn to use your powers for good and not evil.
+* There's no going back now - you're a hacker. Make sure you use your powers for good and not evil.
