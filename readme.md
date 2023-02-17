@@ -1,5 +1,7 @@
 # Installing WSL 2
 
+> **NB** This content is now outdated. It is now significantly easier to install WSL2, and in fact it should be possible with a single command in powershell. The Windows docs on installation are here: https://learn.microsoft.com/en-us/windows/wsl/install
+
 Welcome!
 
 This document will guide you through the process of installing Windows Subsystem for Linux 2. This guide was put together using Microsoft's official instructions for installing WSL, with some added tweaks from yours truly to make it easier to follow.
